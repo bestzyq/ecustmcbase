@@ -3,8 +3,11 @@
 
 网站使用了hexo框架，butterfly主题，没有插件。
 
+'''
+https://gitee.com/ecustmc/ecustmcbase.git
+npm install
+'''
+
 hexo的文档：https://hexo.io/zh-cn/
 
 butterfly的文档：https://butterfly.js.org/
-
-需要注意的是，css和js文件基本都是用了本地源，其它直接按文档做就行
