@@ -3,10 +3,10 @@
 
 网站使用了hexo框架，butterfly主题，没有插件。
 
-`
+```
 https://gitee.com/ecustmc/ecustmcbase.git
 npm install
-`
+```
 
 hexo的文档：https://hexo.io/zh-cn/
 
