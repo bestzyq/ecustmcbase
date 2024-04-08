@@ -7,7 +7,7 @@
 https://gitee.com/ecustmc/ecustmcbase.git
 npm install
 ```
-相必hexo的命令不用我写吧...
+想必hexo的命令不用我写吧...
 
 hexo的文档：https://hexo.io/zh-cn/
 
