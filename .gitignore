@@ -7,4 +7,5 @@ public/
 .deploy*/
 !.deploy_git/
 !.deploy_git/.github/
+!.deploy_git/.github/workflows/sync.yml
 _multiconfig.yml
