@@ -4,7 +4,7 @@
 网站使用了hexo框架，butterfly主题，没有插件。
 
 ```
-https://gitee.com/ecustmc/ecustmcbase.git
+git clone https://gitee.com/ecustmc/ecustmcbase.git
 npm install
 npm install hexo-deployer-git --save
 ```
