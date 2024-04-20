@@ -5,6 +5,18 @@
       link: https://www.ecust.edu.cn/
       avatar: https://www.ecust.edu.cn/_upload/tpl/00/2c/44/template44/images/logo.png
       descr: 华东理工大学
+    - name: ECUSTVR
+      link: https://www.ecustvr.top/
+      avatar: https://cs.s.ecust.edu.cn/star3/origin/de92cbe9ea044a985c7fb85bf010dd14.png
+      descr: 华东理工大学VR俱乐部
+    - name: ECUSTWIKI
+      link: https://wiki.ecustvr.top/
+      avatar: https://www.ecust.edu.cn/_upload/tpl/00/2c/44/template44/images/logo.png
+      descr: ECUSTWIKI（花梨百科）
+    - name: MUA
+      link: https://www.mualliance.cn/
+      avatar: https://www.mualliance.cn/wp-content/uploads/2023/01/mua.png
+      descr: Minecraft高校联盟
     - name: SJMC
       link: https://mc.sjtu.cn/
       avatar: https://www.mualliance.cn/wp-content/uploads/2023/01/mcclub_%E9%80%8F%E6%98%8E%E8%83%8C%E6%99%AF-300x300.png
@@ -17,20 +29,12 @@
       link: https://www.tongji-mc.cn/
       avatar: https://www.tongji-mc.cn/wp-content/uploads/2024/03/minecraft_title.png
       descr: 同济大学Minecraft紫晶社
-    - name: MUA
-      link: https://www.mualliance.cn/
-      avatar: https://www.mualliance.cn/wp-content/uploads/2023/01/mua.png
-      descr: Minecraft高校联盟
-    - name: ECUSTVR
-      link: https://www.ecustvr.top/
-      avatar: https://cs.s.ecust.edu.cn/star3/origin/de92cbe9ea044a985c7fb85bf010dd14.png
-      descr: 华东理工大学VR俱乐部
-    - name: ECUSTWIKI
-      link: https://wiki.ecustvr.top/
-      avatar: https://www.ecust.edu.cn/_upload/tpl/00/2c/44/template44/images/logo.png
-      descr: ECUSTWIKI（花梨百科）
+    - name: SJTUG Siyuan Mirror
+      link: https://mirror.sjtu.edu.cn/
+      avatar: https://mirror.sjtu.edu.cn/static/media/sjtug.ae1e4889.svg
+      descr: 上海交通大学 Linux 用户组 软件源镜像服务
 
-- class_name: 一些博客
+- class_name: 成员博客
   link_list:
     - name: chinazyq
       link: https://www.zyqs.xyz/
@@ -42,7 +46,7 @@
       descr: Palpitate's Blog
     - name: Eric
       link: https://www.ecust.icu/
-      avatar: https://cdn.jsdelivr.net/gh/UKEricPZ/blogimage@main/b_807cbe92f38534bcbeb84c002fa31985.jpg
+      avatar: https://jsdelivr.ecustvr.top/gh/UKEricPZ/blogimage@main/b_807cbe92f38534bcbeb84c002fa31985.jpg
       descr: 老张的后花园
     - name: Holo
       link: http://blog.holo19.fun/
@@ -54,7 +58,7 @@
       descr: 尘世之外の咖啡屋
     - name: UKEricPZ
       link: https://blog.ukericpz.com/
-      avatar: https://cdn.jsdelivr.net/gh/UKEricPZ/blogimage@main/avatar.png
+      avatar: https://jsdelivr.ecustvr.top/gh/UKEricPZ/blogimage@main/avatar.png
       descr: 乆鸽 UKEricPZ
       
 - class_name: 网站框架
