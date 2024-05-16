@@ -3,6 +3,7 @@ title: 服务器
 date: 2024-04-05 01:19:33
 ---
 ## 服务器
+### 皮肤站验证
 悠久服（ECUSTA）：mca.ecustvr.top  
 实时地图：[点击进入](http://mcmapa.ecustvr.top/)
 
@@ -16,6 +17,7 @@ date: 2024-04-05 01:19:33
 
 版本几乎不限（支持1.9以上版本），进入均需进入[皮肤站](https://mcskin.ecustvr.top/)注册账号，输入/hub可切换各大高校服务器
 
+### 正版验证
 在Minecraft 15周年之际，我们实验性地推出通过正版验证进入服务器，地址为：mcz.ecustvr.top  
 进入后可以通过输入`/server`命令切换服务器，例如输入`/server game`切换到游戏测试服
 
