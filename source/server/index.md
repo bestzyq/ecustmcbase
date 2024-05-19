@@ -24,6 +24,6 @@ date: 2024-04-05 01:19:33
 ### 在线状态
 > 由 [minecraftlist.com](https://minecraftlist.com/) 提供状态监测服务
 
-[![](https://minecraftlist.com/servers/mca.ecustvr.top/banner@2x.jpg)](https://minecraftlist.com/servers/mca.ecustvr.top)
-[![](https://minecraftlist.com/servers/mcs.ecustvr.top/banner@2x.jpg)](https://minecraftlist.com/servers/mcs.ecustvr.top)
-[![](https://minecraftlist.com/servers/mcc.ecustvr.top/banner@2x.jpg)](https://minecraftlist.com/servers/mcc.ecustvr.top)
+[![](https://minecraftlist.ecustvr.top/servers/mca.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mca.ecustvr.top)
+[![](https://minecraftlist.ecustvr.top/servers/mcs.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mcs.ecustvr.top)
+[![](https://minecraftlist.ecustvr.top/servers/mcc.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mcc.ecustvr.top)
