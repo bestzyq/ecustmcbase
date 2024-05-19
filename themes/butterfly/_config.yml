@@ -3,7 +3,7 @@
 # --------------------------------------
 
 nav:
-  logo: /img/logo.png
+  logo: https://www.ecust.edu.cn/_upload/tpl/00/2c/44/template44/images/logo.png
   display_title: true
   fixed: false # fixed navigation bar
 
@@ -52,11 +52,11 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/logo.png
+favicon: https://www.ecust.edu.cn/_upload/tpl/00/2c/44/template44/images/logo.png
 
 # Avatar (頭像)
 avatar:
-  img: /img/avatar.jpg
+  img: https://pic1.zhimg.com/80/v2-9a793a9814442bab394bd2c974d7899e_1440w.jpeg
   effect: false
 
 # Disable all banner image
@@ -66,7 +66,7 @@ disable_top_img: false
 index_img:
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: /img/bg.webp
+default_top_img: https://picx.zhimg.com/80/v2-03ef9fd5320aacca4aba6095d96ae47e_1440w.webp
 
 # The banner image of archive page
 archive_img:
@@ -99,9 +99,9 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - /img/wallpaper_minecraft_bedrock_edition_1920x1080.png
-    - /img/wallpaper_minecraft_burberry_1920x1080.png
-    - /img/bg.webp
+    - https://pic1.zhimg.com/80/v2-acb61183e22a905b4477918d9c727678_1440w.png
+    - https://picx.zhimg.com/80/v2-eca7c7814bcaaa91fd41ecefbecfa670_1440w.png
+    - https://picx.zhimg.com/80/v2-03ef9fd5320aacca4aba6095d96ae47e_1440w.webp
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
