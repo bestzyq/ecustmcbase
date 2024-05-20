@@ -1,7 +1,9 @@
 ---
 title: Minecraft 15 years old
 date: 2024-05-16 19:10:38
-tags: Minecraft
+tags: 
+- Minecraft
+- Minecraft 15周年
 categories: 运维
 cover: https://www.minecraft.net/content/dam/minecraftnet/franchise/component-library/anniversaryHub/hero/mobile/HubHero_CenterTop_Mobile@2x.png
 ---
