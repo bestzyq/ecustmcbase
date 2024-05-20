@@ -34,7 +34,7 @@
       avatar: https://mirror.sjtu.edu.cn/static/media/sjtug.ae1e4889.svg
       descr: 上海交通大学 Linux 用户组 软件源镜像服务
 
-- class_name: 成员博客
+- class_name: 成员
   link_list:
     - name: chinazyq
       link: http://www.bestzyq.cn/
