@@ -3,6 +3,8 @@ title: 服务器
 date: 2024-04-05 01:19:33
 ---
 ## 服务器
+版本：1.9.x-1.20.6均可进入
+
 ### 皮肤站验证
 悠久服（ECUSTA）：mca.ecustvr.top  
 实时地图：[点击进入](http://mcmapa.ecustvr.top/)
