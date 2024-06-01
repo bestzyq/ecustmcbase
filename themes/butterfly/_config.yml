@@ -13,7 +13,7 @@ menu:
   皮肤站|| fas fa-solid fa-shirt:
     公网站: https://mcskin.ecustvr.top/ || fas fa-globe
     校内站: https://mcskin.ecustvr.eu.org/ || fas fa-school
-    备用站: https://mctest.ecustvr.top/ || fas fa-pen
+    #备用站: https://mctest.ecustvr.top/ || fas fa-pen
   萌新指南: /tutorial/ || fas fa-pen
   服务器: /server/ || fas fa-server
   地图||fa fa-map:
