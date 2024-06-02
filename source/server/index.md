@@ -19,9 +19,8 @@ date: 2024-04-05 01:19:33
 
 版本几乎不限（支持1.9以上版本），进入均需进入[皮肤站](https://mcskin.ecustvr.top/)注册账号，输入/hub可切换各大高校服务器
 
-### 正版验证
-在Minecraft 15周年之际，我们实验性地推出通过正版验证进入服务器，地址为：mcz.ecustvr.top  
-进入后可以通过输入`/server`命令切换服务器，例如输入`/server game`切换到游戏测试服
+### 无验证
+活动服务器：mch.ecustvr.top
 
 ### 在线状态
 > 由 [minecraftlist.com](https://minecraftlist.com/) 提供状态监测服务
@@ -29,4 +28,4 @@ date: 2024-04-05 01:19:33
 [![](https://minecraftlist.ecustvr.top/servers/mca.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mca.ecustvr.top)
 [![](https://minecraftlist.ecustvr.top/servers/mcs.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mcs.ecustvr.top)
 [![](https://minecraftlist.ecustvr.top/servers/mcc.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mcc.ecustvr.top)
-[![](https://minecraftlist.ecustvr.top/servers/mcz.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mcz.ecustvr.top)
+[![](https://minecraftlist.ecustvr.top/servers/mch.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mch.ecustvr.top)
