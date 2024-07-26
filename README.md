@@ -6,7 +6,6 @@
 ```
 git clone https://gitee.com/ecustmc/ecustmcbase.git
 npm install
-npm install hexo-deployer-git --save
 ```
 想必hexo的命令不用我写吧...
 
