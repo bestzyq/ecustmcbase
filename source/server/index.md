@@ -20,12 +20,16 @@ date: 2024-04-05 01:19:33
 版本几乎不限（支持1.9以上版本），进入均需进入[皮肤站](https://mcskin.ecustvr.top/)注册账号，输入/hub可切换各大高校服务器
 
 ### 无验证
-活动服务器：mch.ecustvr.top
+- 活动服务器：mch.ecustvr.top
+- Aternos服：ecustcic.aternos.me:53368
+    - 使用方法：
+    1. 打开https://aternos.org/
+    2. 输入用户名密码（均为ecustcic），开启服务器即可进入
 
 ### 在线状态
 > 由 [minecraftlist.com](https://minecraftlist.com/) 提供状态监测服务
 
-[![](https://minecraftlist.ecustvr.top/servers/mca.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mca.ecustvr.top)
-[![](https://minecraftlist.ecustvr.top/servers/mcs.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mcs.ecustvr.top)
-[![](https://minecraftlist.ecustvr.top/servers/mcc.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mcc.ecustvr.top)
-[![](https://minecraftlist.ecustvr.top/servers/mch.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mch.ecustvr.top)
+[![](https://minecraftlist.com/servers/mca.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mca.ecustvr.top)
+[![](https://minecraftlist.com/servers/mcs.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mcs.ecustvr.top)
+[![](https://minecraftlist.com/servers/mcc.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mcc.ecustvr.top)
+[![](https://minecraftlist.com/servers/mch.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mch.ecustvr.top)

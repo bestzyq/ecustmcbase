@@ -35,8 +35,10 @@ ECUSTMC 提供 Minecraft 角色皮肤的上传以及托管服务。配合 Custom
 
 ## 2. 启动器安装
 > 鉴于启动器会自动弹出下载Java的链接，在此不再赘述
+如果因为网络原因下不动，可以前往[http://mckc.ecustvr.top](http://mckc.ecustvr.top)，于`教学资源`下载
 * 使用HMCL启动器（推荐） [官方下载](https://ci.huangyuhui.net/job/HMCL/)
 * 使用PCL启动器 [PCL启动器下载（仅限Windows）](https://afdian.net/p/0164034c016c11ebafcb52540025c377)
+* 使用FCL启动器 [FCL启动器下载（仅限Android）](https://github.com/FCL-Team/FoldCraftLauncher/releases)
 * 更详细教程可以看MUA的Wiki：[Minecraft游玩指南 | Minecraft高校联盟资料站 (mualliance.cn)](https://docs.mualliance.cn/zh/tutorial/start)
 
 > 理论上，将“将此按钮拖动至启动器”拖动至启动器，即可完成设置。但是，防止一些同学不会操作，还是讲讲手动输入方法。
