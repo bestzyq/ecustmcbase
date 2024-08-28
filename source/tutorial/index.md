@@ -96,14 +96,14 @@ ECUSTMC 提供 Minecraft 角色皮肤的上传以及托管服务。配合 Custom
 3. 点击“添加服务器”
 
 4. 在“服务器地址”中输入服务器的域名或IP地址（见群公告，或查看[服务器](/server/)），点击“完成”保存。如：
-    * 悠久服（ECUSTA）：mca.ecustvr.top  
-        * 实时地图：[点击进入](http://mcmapa.ecustvr.top/)
+    - 悠久服（ECUSTA）：mca.ecustvr.top  
+        实时地图：[点击进入](http://mcmap.ecustvr.top:8101/)
 
-    * 生存服（ECUSTS）：mcs.ecustvr.top  
-        * 实时地图：[点击进入](http://mcmap.ecustvr.top/)
+    - 生存服（ECUSTS）：mcs.ecustvr.top  
+        实时地图：[点击进入](http://mcmap.ecustvr.top:8123/)
 
-    * 创造服（ECUSTC）：mcc.ecustvr.top  
-        * 实时地图：[点击进入](http://mcmaps.ecustvr.top/)
+    - 创造服（ECUSTC）：mcc.ecustvr.top  
+        实时地图：[点击进入](http://mcmap.ecustvr.top:8100/)
 
 5. （后续打开只需）在服务器列表，双击已添加的服务器，进入服务器
 

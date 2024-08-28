@@ -7,13 +7,13 @@ date: 2024-04-05 01:19:33
 
 ### 皮肤站验证
 悠久服（ECUSTA）：mca.ecustvr.top  
-实时地图：[点击进入](http://mcmapa.ecustvr.top/)
+实时地图：[点击进入](http://mcmap.ecustvr.top:8101/)
 
 生存服（ECUSTS）：mcs.ecustvr.top  
-实时地图：[点击进入](http://mcmap.ecustvr.top/)
+实时地图：[点击进入](http://mcmap.ecustvr.top:8123/)
 
 创造服（ECUSTC）：mcc.ecustvr.top  
-实时地图：[点击进入](http://mcmaps.ecustvr.top/)
+实时地图：[点击进入](http://mcmap.ecustvr.top:8100/)
 
 游戏测试服（ECUSTG）：mcg.ecustvr.top
 
