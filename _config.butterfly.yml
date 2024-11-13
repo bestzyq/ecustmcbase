@@ -18,9 +18,9 @@ menu:
   萌新指南: /tutorial/ || fas fa-pen
   服务器: /server/ || fas fa-server
   地图||fa fa-map:
-    创造指南: http://mcmap.ecustvr.top:8100/ || fas fa-map-marker
-    生存指南: http://mcmap.ecustvr.top:8123/ || fas fa-map-signs
-    观光指南: http://mcmap.ecustvr.top:8101/ || fas fa-map-pin
+    观光指南: http://mcmap.ecustvr.top:25500/ || fas fa-map-pin
+    生存指南: http://mcmap.ecustvr.top:25501/ || fas fa-map-signs
+    创造指南: http://mcmap.ecustvr.top:25502/ || fas fa-map-marker
   列表||fas fa-book:
     时间轴: /archives/ || fas fa-archive
     标签: /tags/ || fas fa-tags
