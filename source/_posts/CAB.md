@@ -9,8 +9,10 @@ categories: 活动
 cover: https://media.forgecdn.net/avatars/thumbnails/450/731/256/256/637712078711696255.png
 ---
 ## 服务器信息
+> ⚠️ 注意：进入需使用[皮肤站](https://mcskin.ecustvr.top/)认证，具体流程见[萌新指南](/tutorial/)
 - 服务器地址：cab.ecustvr.top/mod.ecustvr.top
 - 版本：1.3
+- 开放时间：8:00 ~ 22:35（节假日顺延1h）
 - 下载方式：HMCL/PCL启动器搜索下载整合包，或下载群文件中整合包拖动导入。
 - 注意：使用Java1.8-311以下版本（群文件有）
 - 整合包介绍：https://www.mcmod.cn/modpack/312.html

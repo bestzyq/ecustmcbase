@@ -3,10 +3,12 @@ title: 服务器
 date: 2024-04-05 01:19:33
 ---
 ## 🏰 服务器
-> ⚠️ 注意：进入均需进入[皮肤站](https://mcskin.ecustvr.top/)注册账号，具体流程见[萌新指南](/tutorial/)
+> ⚠️ 注意：进入需使用[皮肤站](https://mcskin.ecustvr.top/)认证，具体流程见[萌新指南](/tutorial/)
 - 🎮 版本：1.7.2-1.21.3均可进入
+- ⏰ 开放时间：8:00 ~ 22:35（节假日顺延1h）
 - 🌐 服务器群组地址：`mcs.ecustvr.top`
     - 🧩 mod服地址：`mod.ecustvr.top`
+    - 🧩 gtnh服地址：`gtnh.ecustvr.top`
 - 📋 介绍：设有lobby、cz（创造服（近期将撤并至lobby））、cj（插件服）和mod（模组服（不定期开服））
 - 🔄 切换服务器：/server <服务器名>，例：`/server lobby`
 - 🏫 切换其他高校服务器：/hub <学校代码[（点此查询）](https://docs.mualliance.cn/zh/dev/union/lobby)>，例如：`/server SJMC`
