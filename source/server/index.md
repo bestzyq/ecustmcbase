@@ -2,34 +2,38 @@
 title: 服务器
 date: 2024-04-05 01:19:33
 ---
-## 服务器
-版本：1.9.x-1.20.6均可进入
+## 🏰 服务器
+> ⚠️ 注意：进入均需进入[皮肤站](https://mcskin.ecustvr.top/)注册账号，具体流程见[萌新指南](/tutorial/)
+- 🎮 版本：1.7.2-1.21.3均可进入
+- 🌐 服务器群组地址：`mcs.ecustvr.top`
+    - 🧩 mod服地址：`mod.ecustvr.top`
+- 📋 介绍：设有lobby、cz（创造服（近期将撤并至lobby））、cj（插件服）和mod（模组服（不定期开服））
+- 🔄 切换服务器：/server <服务器名>，例：`/server lobby`
+- 🏫 切换其他高校服务器：/hub <学校代码[（点此查询）](https://docs.mualliance.cn/zh/dev/union/lobby)>，例如：`/server SJMC`
 
-### 皮肤站验证
-悠久服（ECUSTA）：mca.ecustvr.top  
-实时地图：[点击进入](http://mcmap.ecustvr.top:8101/)
+## 🗺️ 实时地图
+- 🏃‍♂️ Lobby地图：[点击进入](http://mcmap.ecustvr.top:25500/)
+- 🔨 插件服地图：[点击进入](http://mcmap.ecustvr.top:25501/)
+- 🎨 创造服地图：[点击进入](http://mcmap.ecustvr.top:25502/)
 
-生存服（ECUSTS）：mcs.ecustvr.top  
-实时地图：[点击进入](http://mcmap.ecustvr.top:8123/)
+## 📊 在线状态
+> 📊 由 [minecraftlist.com](https://minecraftlist.com/) 提供状态监测服务
 
-创造服（ECUSTC）：mcc.ecustvr.top  
-实时地图：[点击进入](http://mcmap.ecustvr.top:8100/)
-
-游戏测试服（ECUSTG）：mcg.ecustvr.top
-
-版本几乎不限（支持1.9以上版本），进入均需进入[皮肤站](https://mcskin.ecustvr.top/)注册账号，输入/hub可切换各大高校服务器
-
-### 无验证
-- 活动服务器：mch.ecustvr.top
-- Aternos服：ecustcic.aternos.me:53368
-    - 使用方法：
-    1. 打开https://aternos.org/
-    2. 输入用户名密码（均为ecustcic），开启服务器即可进入
-
-### 在线状态
-> 由 [minecraftlist.com](https://minecraftlist.com/) 提供状态监测服务
-
-[![](https://minecraftlist.com/servers/mca.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mca.ecustvr.top)
 [![](https://minecraftlist.com/servers/mcs.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mcs.ecustvr.top)
-[![](https://minecraftlist.com/servers/mcc.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mcc.ecustvr.top)
-[![](https://minecraftlist.com/servers/mch.ecustvr.top/banner.svg)](https://minecraftlist.com/servers/mch.ecustvr.top)
+
+## 💻 技术介绍
+采用Velocity组建群组代理，采用modern方式转发。上层接入[联合大厅接入点](https://docs.mualliance.cn/zh/dev/union/lobby)，通过[联合认证](https://docs.mualliance.cn/zh/dev/union/auth)保证服务器安全。
+
+### 🌐 接入点
+- 🏫 上交接入点：lobby.mualliance.cn / mua.sjmc.club
+- 🌍 浙江接入点：hb.mualliance.cn
+- 🏞️ 湖北接入点：imu.mualliance.cn / unions.imucraft.cn / unions6.imucraft.cn （IPv6）
+- 🏝️ 四川接入点：taru.mualliance.cn / union.tarucraft.club
+可输入接入点地址进入MUA大厅后，输入`/hub ECUST`进入ECUST群组服务器。
+
+### 📡 备用地址
+- 📶 电信：`out.ecust.cloud`
+- 📱 移动：`mch.ecustvr.top`
+
+## 🙏 致谢
+服务器由百鬼Polaris独家赞助，特此感谢！
