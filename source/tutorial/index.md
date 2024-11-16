@@ -34,10 +34,9 @@ ECUSTMC 提供 Minecraft 角色皮肤的上传以及托管服务。配合 Custom
 更换皮肤（可选）：左侧的“皮肤库”中有各位玩家上传的皮肤，点进你心意的游戏皮肤，点击左下角“添加至衣柜”，再返回用户中心，点击左侧“我的衣柜”，选择想使用的皮肤，点击右侧“使用”，选择你的角色名。这样，你在游戏中的角色皮肤就更新了！
 
 ## 2. 启动器安装
-> 鉴于启动器会自动弹出下载Java的链接，在此不再赘述
-如果因为网络原因下不动，可以前往[http://mckc.ecustvr.top](http://mckc.ecustvr.top)，于`教学资源`下载
-* 使用HMCL启动器（推荐） [官方下载](https://ci.huangyuhui.net/job/HMCL/)
-* 使用PCL启动器 [PCL启动器下载（仅限Windows）](https://afdian.net/p/0164034c016c11ebafcb52540025c377)
+> 鉴于启动器会自动弹出下载Java的链接，在此不再赘述，需要教程请看[SJMC萌新指南](https://mc.sjtu.cn/tutorial/#title-4)
+如果因为网络原因下不动，可以前往群文件/[http://mckc.ecustvr.top](http://mckc.ecustvr.top)，于`教学资源`下载
+* 使用HMCL启动器（推荐） [官方下载](https://hmcl.huangyuhui.net/)
 * 使用FCL启动器 [FCL启动器下载（仅限Android）](https://github.com/FCL-Team/FoldCraftLauncher/releases)
 * 更详细教程可以看MUA的Wiki：[Minecraft游玩指南 | Minecraft高校联盟资料站 (mualliance.cn)](https://docs.mualliance.cn/zh/tutorial/start)
 
