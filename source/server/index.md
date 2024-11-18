@@ -9,14 +9,14 @@ date: 2024-04-05 01:19:33
 - 🌐 服务器群组地址：`mcs.ecustvr.top`
     - 🧩 mod服地址：`mod.ecustvr.top`
     - 🧩 gtnh服地址：`gtnh.ecustvr.top`
-- 📋 介绍：设有lobby、cz（创造服（近期将撤并至lobby））、cj（插件服）和mod（模组服（不定期开服））
+- 📋 介绍：设有lobby、cz（创造服（即将撤销））、cj（插件服（即将撤销））和mod（模组服（不定期开服））
 - 🔄 切换服务器：/server <服务器名>，例：`/server lobby`
 - 🏫 切换其他高校服务器：/hub <学校代码[（点此查询）](https://docs.mualliance.cn/zh/dev/union/lobby)>，例如：`/server SJMC`
 
 ## 🗺️ 实时地图
 - 🏃‍♂️ Lobby地图：[点击进入](http://mcmap.ecustvr.top:25500/)
-- 🔨 插件服地图：[点击进入](http://mcmap.ecustvr.top:25501/)
-- 🎨 创造服地图：[点击进入](http://mcmap.ecustvr.top:25502/)
+- 🔨 插件服（即将撤销）地图：[点击进入](http://mcmap.ecustvr.top:25501/)
+- 🎨 创造服（即将撤销）地图：[点击进入](http://mcmap.ecustvr.top:25502/)
 
 ## 📊 在线状态
 > 📊 由 [minecraftlist.com](https://minecraftlist.com/) 提供状态监测服务
