@@ -17,6 +17,7 @@ menu:
     #备用站: https://mctest.ecustvr.top/ || fas fa-pen
   萌新指南: /tutorial/ || fas fa-pen
   服务器: /server/ || fas fa-server
+  工具: /tools/ || fas fa-tools
   地图||fa fa-map:
     观光指南: http://mcmap.ecustvr.top/ || fas fa-map-pin
     生存指南: http://out.ecust.cloud:25501/ || fas fa-map-signs
