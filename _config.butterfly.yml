@@ -29,6 +29,7 @@ menu:
     相册: /Gallery/ || fas fa-images
     状态监控: http://status.ecustvr.top/ || fas fa-heartbeat
     课程: https://mooc1.chaoxing.com/course-ans/courseportal/243472288.html || fas fa-graduation-cap
+    投票: /vote/ || fas fa-vote-yea
     #日志: /log/ || fas fa-book
     #电影: /movies/ || fas fa-video
   链接: /link/ || fas fa-link
