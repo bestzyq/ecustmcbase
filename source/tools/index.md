@@ -11,7 +11,7 @@ date: 2024-12-10 15:09:46
 #### bot_sleep（永昼机）
 依次执行下面两条指令
 ```
-/player bot_sleep spawn at -270 95 769 facing -90 0 in minecraft:overworld
+/player bot_sleep spawn at -3200 55 9370 facing -90 0 in minecraft:overworld
 ```
 ```
 /player bot_sleep use interval 20
