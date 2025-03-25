@@ -50,11 +50,11 @@
       descr: Palpitate's Blog
     - name: Eric
       link: https://www.ecust.icu/
-      avatar: https://jsd.sjmc.club/gh/UKEricPZ/blogimage@main/b_807cbe92f38534bcbeb84c002fa31985.jpg
+      avatar: https://cdn.jsdmirror.com/gh/UKEricPZ/blogimage@main/b_807cbe92f38534bcbeb84c002fa31985.jpg
       descr: 老张的后花园
     - name: UKEricPZ
       link: https://blog.ukericpz.com/
-      avatar: https://jsd.sjmc.club/gh/UKEricPZ/blogimage@main/avatar.png
+      avatar: https://cdn.jsdmirror.com/gh/UKEricPZ/blogimage@main/avatar.png
       descr: 乆鸽 UKEricPZ
       
 - class_name: 网站框架
@@ -73,6 +73,6 @@
       descr: 本网站使用的框架美化方案教程
     - name: Butterfly github
       link: https://github.com/jerryc127/hexo-theme-butterfly
-      avatar: https://fastly.jsdelivr.net/gh/jerryc127/CDN/img/butterfly-github-avatar.png
+      avatar: https://cdn.jsdmirror.com/gh/jerryc127/CDN/img/butterfly-github-avatar.png
       descr: 本网站使用的框架美化方案github库
 
