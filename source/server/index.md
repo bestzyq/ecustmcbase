@@ -66,7 +66,12 @@ document.addEventListener('DOMContentLoaded', function() {
           <img class="server-favicon" src="" alt="${server.address}">
         </div>
         <div>
-          <h2 class="entry-title">加载中...</h2>
+          <div class="title-container">
+            <h2 class="entry-title">加载中...</h2>
+            <button class="refresh-button" title="刷新服务器状态">
+              <i class="fa fa-sync"></i>
+            </button>
+          </div>
           <h2 class="entry-address">${server.address}</h2>
           <div class="post-meta">
             <div class="mcs-status">
@@ -87,10 +92,15 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 
   // 更新服务器状态
-  const updateServerStatus = async () => {
-    const cards = document.querySelectorAll('[data-server]');
+  const updateServerStatus = async (targetCard = null) => {
+    const cards = targetCard ? [targetCard] : document.querySelectorAll('[data-server]');
     
     for (const card of cards) {
+      const refreshButton = card.querySelector('.refresh-button');
+      if (refreshButton) {
+        refreshButton.classList.add('loading');
+        refreshButton.disabled = true;
+      }
       const address = card.dataset.server;
       try {
         const response = await fetch('https://mcapi.ecustvr.top/custom/serverlist/?query=' + address);
@@ -198,15 +208,34 @@ document.addEventListener('DOMContentLoaded', function() {
         time.innerHTML = `<i class="fa fa-clock"></i>${new Date().toLocaleString('zh-CN')}`;
         const playersList = card.querySelector('.online-players ul');
         playersList.innerHTML = '';
+      } finally {
+        // Reset refresh button state
+        if (refreshButton) {
+          refreshButton.classList.remove('loading');
+          refreshButton.disabled = false;
+        }
       }
     }
   };
+
+  // Add click event listeners to refresh buttons
+  document.querySelectorAll('.refresh-button').forEach(button => {
+    button.addEventListener('click', async (e) => {
+      e.preventDefault();
+      if (!button.disabled) {
+        const card = button.closest('[data-server]');
+        if (card) {
+          await updateServerStatus(card);
+        }
+      }
+    });
+  });
 
   // Initial update
   updateServerStatus();
   
   // Update every 60 seconds
-  setInterval(updateServerStatus, 60000);
+  setInterval(() => updateServerStatus(), 60000);
 });
 </script>
 <style>
@@ -355,6 +384,60 @@ document.addEventListener('DOMContentLoaded', function() {
 
   .server-status .online-players li {
     background: #3d3d3d;
+    color: #e1e1e1;
+  }
+}
+
+/* Refresh Button Styles */
+.server-status .title-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 5px;
+}
+
+.server-status .refresh-button {
+  background: none;
+  border: none;
+  color: #666;
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+.server-status .refresh-button:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+  color: #333;
+  transform: scale(1.1);
+}
+
+.server-status .refresh-button:active {
+  transform: scale(0.95);
+}
+
+.server-status .refresh-button.loading i {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* Dark mode support for refresh button */
+@media (prefers-color-scheme: dark) {
+  .server-status .refresh-button {
+    color: #999;
+  }
+  
+  .server-status .refresh-button:hover {
+    background-color: rgba(255, 255, 255, 0.1);
     color: #e1e1e1;
   }
 }
