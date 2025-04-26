@@ -95,12 +95,17 @@ document.addEventListener('DOMContentLoaded', function() {
   const updateServerStatus = async (targetCard = null) => {
     const cards = targetCard ? [targetCard] : document.querySelectorAll('[data-server]');
     
-    for (const card of cards) {
+    // 为所有卡片添加加载状态
+    cards.forEach(card => {
       const refreshButton = card.querySelector('.refresh-button');
       if (refreshButton) {
         refreshButton.classList.add('loading');
         refreshButton.disabled = true;
       }
+    });
+
+    // 并行处理所有请求
+    const updatePromises = Array.from(cards).map(async (card) => {
       const address = card.dataset.server;
       try {
         const response = await fetch('https://mcapi.ecustvr.top/custom/serverlist/?query=' + address);
@@ -208,14 +213,20 @@ document.addEventListener('DOMContentLoaded', function() {
         time.innerHTML = `<i class="fa fa-clock"></i>${new Date().toLocaleString('zh-CN')}`;
         const playersList = card.querySelector('.online-players ul');
         playersList.innerHTML = '';
-      } finally {
-        // Reset refresh button state
+      }
+    });
+
+    // 等待所有请求完成
+    await Promise.all(updatePromises).finally(() => {
+      // 重置所有刷新按钮状态
+      cards.forEach(card => {
+        const refreshButton = card.querySelector('.refresh-button');
         if (refreshButton) {
           refreshButton.classList.remove('loading');
           refreshButton.disabled = false;
         }
-      }
-    }
+      });
+    });
   };
 
   // Add click event listeners to refresh buttons
